@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpack-tutorials",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Derek Harrity <harritydevelopment@gmail> (https://harrity-development.github.io)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
 }
