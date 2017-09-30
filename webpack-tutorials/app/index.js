@@ -1,1 +1,3 @@
-console.log("Webpack Tutorial");
+import component from './component';
+
+document.body.appendChild(component());
